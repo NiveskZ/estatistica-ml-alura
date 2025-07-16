@@ -1,4 +1,5 @@
 # Formação Estatística e Machine Learning G8 - ONE
+![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-blue)
 
 Criei esse repositório com objetivo de atualizar meu progresso em relação as aulas da formação de Estatística e Machine Learning do Programa ONE.
 
