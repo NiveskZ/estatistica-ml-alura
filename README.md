@@ -18,7 +18,7 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 ## Progresso Cursos
 
 ### Estatística
-1. [ ] Estatística com Python: resumindo e analisando dados;
+1. [x] Estatística com Python: resumindo e analisando dados;
 2. [ ] Estatística com Python: probabilidade e amostragem;
 ### Regressão Linear
 4. [ ] Data Science: testando relações com Regressão Linear;
