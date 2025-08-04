@@ -19,10 +19,10 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 
 ### Estatística
 1. [x] [Estatística com Python: resumindo e analisando dados](./estatistica/estatistica.md);
-2. [ ] [Estatística com Python: probabilidade e amostragem](./estatistica/estatistica.md);
+2. [x] [Estatística com Python: probabilidade e amostragem](./estatistica/estatistica.md);
 ### Regressão Linear
-4. [ ] Data Science: testando relações com Regressão Linear;
-5. [ ] Regressão Linear: técnicas avançadas de modelagem;
+4. [x] [Data Science: testando relações com Regressão Linear](./regressao-linear/regressao.md);
+5. [x] [Regressão Linear: técnicas avançadas de modelagem](./regressao-linear/regressao.md);
 6. [ ] Classificação: aprendendo a classificar dados com Machine Learning;
 ### Machine Learning: Compreendendo a base da classificação
 7. [ ] Classificação: validação de modelos e métricas de avaliação;
