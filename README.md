@@ -1,5 +1,5 @@
 # Formação Estatística e Machine Learning G8 - ONE
-![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-blue)
+![Completo](https://img.shields.io/badge/status-complete-green)
 
 Criei esse repositório com objetivo de atualizar meu progresso em relação as aulas da formação de Estatística e Machine Learning do Programa ONE.
 
@@ -26,4 +26,4 @@ Esta formação faz parte do programa ONE, parceria de Alura + Oracle
 6. [x] Classificação: aprendendo a classificar dados com Machine Learning;
 ### Machine Learning: Compreendendo a base da classificação
 7. [x] Classificação: validação de modelos e métricas de avaliação;
-8. [ ] IA aumentada: prevendo atrasos de voos.
+8. [x] IA aumentada: prevendo atrasos de voos.
